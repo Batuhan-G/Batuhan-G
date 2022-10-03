@@ -37,7 +37,6 @@
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-<br/>
 <h3> ⚙️ &nbsp;GitHub Analytics</h3>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Batuhan-G&theme=buefy&show_icons=true" />
