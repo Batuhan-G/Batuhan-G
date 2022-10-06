@@ -1,8 +1,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduated Software Engineering at University of Yaşar.
-- 💼 &nbsp; Looking for a job on React in the FrontEnd field.
+- 🎓 &nbsp; Graduated from Yaşar University with a degree in Software Engineering.
+- 💼 &nbsp; Looking for a job as Front-End Developer.
 - 🌱 &nbsp; Learning more about Clean Code Architecture, Graphql and structure of UI/UX.
 - ✍️ &nbsp; Reading technology articles and reviewing websites developed with current technologies.
 - ✋ &nbsp; Volunteer at LÖSEV.
@@ -29,7 +29,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=0052CC)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=FFF)
