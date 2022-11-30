@@ -6,6 +6,7 @@
 - 🌱 &nbsp; Learning more about Clean Code Architecture, Graphql and structure of UI/UX.
 - ✍️ &nbsp; Reading technology articles and reviewing websites developed with current technologies.
 - ✋ &nbsp; Volunteer at LÖSEV.
+- 🌐  &nbsp; Check [Personal Website](https://master--batuhan-goren-portfolio.netlify.app/#home)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
