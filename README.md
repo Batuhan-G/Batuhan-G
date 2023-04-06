@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from Yaşar University with a degree in Software Engineering.
-- 💼 &nbsp; Looking for a job as Front-End Developer.
+- 💼 &nbsp; Frontend Developer at BREW.
 - 🌱 &nbsp; Learning more about Clean Code Architecture, Graphql and structure of UI/UX.
 - ✍️ &nbsp; Reading technology articles and reviewing websites developed with current technologies.
 - ✋ &nbsp; Volunteer at LÖSEV.
