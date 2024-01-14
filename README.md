@@ -40,7 +40,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <h3> ⚙️ &nbsp;GitHub Analytics</h3>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Batuhan-G">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Batuhan-G&show_icons=true&theme=buefy&layout=compacty&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batuhan-G&theme=buefy&layout=compact" />
 </a>
