@@ -3,39 +3,35 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Graduated from Yaşar University with a degree in Software Engineering.
 - 💼 &nbsp; Frontend Developer at BREW.
-- 🌱 &nbsp; Learning more about Clean Code Architecture, Graphql and structure of UI/UX.
-- ✍️ &nbsp; Reading technology articles and reviewing websites developed with current technologies.
+- 🌱 &nbsp; Learning more about Clean Code Architecture.
 - ✋ &nbsp; Volunteer at LÖSEV.
 - 🌐  &nbsp; Check [Personal Website](https://master--batuhan-goren-portfolio.netlify.app/#home)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![MUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui)
 - 🔗 &nbsp;
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
-  ![RestAPI](https://img.shields.io/badge/-RestAPI-333333?style=flat&logo=restApi)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Apollo](https://img.shields.io/badge/-Apollo-333333?style=flat&logo=apollo)
-- 📱 &nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin&logoColor=007396)
+  ![RestAPI](https://img.shields.io/badge/-RestAPI-333333?style=flat&logo=restApi)
 - 🛢 &nbsp;
+  ![Decap](https://img.shields.io/badge/-DecapCMS-333333?style=flat&logo=decapCms)
+  ![Hasura](https://img.shields.io/badge/-Hasura-333333?style=flat&logo=hasura)
+  ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - 🧪 &nbsp;
-  ![Karma](https://img.shields.io/badge/-Karma-333333?style=flat&logo=karma)
-  ![Jasmine](https://img.shields.io/badge/-Jasmine-333333?style=flat&logo=jasmine)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=Jira&logoColor=0052CC)
+  ![Plane](https://img.shields.io/badge/-Plane-333333?style=flat&logo=plane)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=FFF)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
