@@ -4,13 +4,12 @@
 - 🎓 &nbsp; Graduated from Yaşar University with a degree in Software Engineering.
 - 💼 &nbsp; Frontend Developer at BREW.
 - 🌱 &nbsp; Learning more about Clean Code Architecture.
-- ✋ &nbsp; Volunteer at LÖSEV.
-- 🌐  &nbsp; Check [Personal Website](https://master--batuhan-goren-portfolio.netlify.app/#home)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![Remix](https://img.shields.io/badge/-Remix-333333?style=flat&logo=remix)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![MUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui)
