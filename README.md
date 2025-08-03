@@ -1,8 +1,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 💼 &nbsp; Frontend Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Graduated from Yaşar University with a degree in Software Engineering.
-- 💼 &nbsp; Frontend Developer at BREW.
 - 🌱 &nbsp; Learning more about Clean Code Architecture.
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -13,13 +12,16 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![MUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui)
+  ![TailwindCss](https://img.shields.io/badge/-TailWindCss-333333?style=flat&logo=tailWindCss)
 - 🔗 &nbsp;
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
+  ![Bruno](https://img.shields.io/badge/-Bruno-333333?style=flat&logo=bruno)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![RestAPI](https://img.shields.io/badge/-RestAPI-333333?style=flat&logo=restApi)
 - 🛢 &nbsp;
   ![Decap](https://img.shields.io/badge/-DecapCMS-333333?style=flat&logo=decapCms)
   ![Hasura](https://img.shields.io/badge/-Hasura-333333?style=flat&logo=hasura)
+  ![OrbStack](https://img.shields.io/badge/-OrbStack-333333?style=flat&logo=orbStack)
   ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - 🧪 &nbsp;
