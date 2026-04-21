@@ -1,8 +1,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Frontend Developer.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning more about Clean Code Architecture.
+- 💼 &nbsp; Frontend Engineer specialized in React/Next.js ecosystem.
+- 🚀 &nbsp; Building scalable web apps with a focus on Clean Architecture.
+- 🤖 &nbsp; Integrating AI solutions to streamline user experiences.
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
@@ -42,5 +43,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/batuhan-goren/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Batuhan%20Gören-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:batuhangoren99@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-batuhangoren99@hotmail.com-blue?style=flat-square&logo=microsoft-outlook"></a>
+  <a href="mailto:batuhangorennn@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-batuhangorennn%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white">
+</a>
 </p>
