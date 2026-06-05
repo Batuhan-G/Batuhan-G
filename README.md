@@ -1,6 +1,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Frontend Engineer specialized in React/Next.js ecosystem.
+- 💼 &nbsp; Frontend Engineer specialized in React/Next.js, Vue.js ecosystem.
 - 🚀 &nbsp; Building scalable web apps with a focus on Clean Architecture.
 - 🤖 &nbsp; Integrating AI solutions to streamline user experiences.
 
@@ -10,6 +10,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Remix](https://img.shields.io/badge/-Remix-333333?style=flat&logo=remix)
+  ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![MUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui)
